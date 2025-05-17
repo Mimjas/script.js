@@ -22,7 +22,7 @@
         var nome=nome.value;
         var mensagem=mensagem.value;
 
-console.log(`Obrigado,${nome.valor}!sua mensagem foi enviada com sucesso:${mensagem.valor}`);
+console.log(`Obrigado,${nomeValor}!sua mensagem foi enviada com sucesso:${mensagemValor}`);
 }
 </script>
 

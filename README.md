@@ -7,7 +7,7 @@
                 <h1>Flor e Codigo</h1>
                 <p> Envie uma mensagem especial com seu arranjo!</p>
                 <form Id>="formulario"</form Id >
-                    <Label for="">"nome"</Label for>
+                    <Label for="nome">seu nome</Label><br>
                         <input type="text" id="nome" required><br><br>
                         <label for>"mesagem">Sua Mensagem>:</label><br>
                        <textarea>id="mensagem" required></textearea><br><br> 
